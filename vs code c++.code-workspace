@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../vs code c++"
+		},
+		{
+			"path": "../web site basics"
+		},
+		{
+			"path": "../css tut"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web site basics"
+	}
+}
